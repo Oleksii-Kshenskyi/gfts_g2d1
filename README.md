@@ -1,2 +1,9 @@
-# gfts_g2d1
-The very first game demo. 2D, on Godot.
+# GftS, Demo 1
+
+This repository contains my very first game demo. At the point of writing this (both readme and the project), I know close to nothing about Godot, or 2D/3D graphics, or game development in general. However, game dev is one of the most exciting fields for me to look at, so I really want to experience how it feels for myself.
+
+If/when I decide to work on a commercial game, the source code will obviously be closed, but for now, as I want to tinker around with it and see how it feels, those first few demos are going to be opensource, under MIT. This means that provided you redistribute the MIT copyright notice, you're free to do whatever you want with this entire repository.
+
+As for the plans regarding this first demo, they're pretty modest. I'm going to work out the details in the future, but the original plan in my head was to create just a single scene. My first game is going to be purely gameplay/mechanics centered, and everything in it is going to be squares/cubes (depending on whether it's 2D or 3D in the specific demo we're talking about): the main character, the enemies, the bullets, the weapons, the skybox, everything.
+
+The first demo should contain a few researches, a few issues (for specifics, please refer to the [issues](https://github.com/Oleksii-Kshenskyi/gfts_g2d1/issues) section of this repo), the playable character that is able to move and attack in some way (either melee or ranged), and around 3 enemies that attack the character. The task of this demo is obviously going to be to defeat all the 3 enemies. That's it for now. Really simple, but as this is my very first foray into game development, I want to see the very basics of how it works, not much more. Depending on how it goes, I'm planning to take all the valuable lessons from this demo into the second one. For now, the plan is to have all the subsequent demos in different engines (Godot, Unreal, Unity and maybe 1 or 2 graphics libs like Skia and/or Cocos), to not just see how I can improve on the demo itself, but to also see which toolset I like/enjoy working with the most. I'll try to document my feelings/findings/research as I go. We'll see about that though.
